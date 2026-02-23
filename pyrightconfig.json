@@ -1,0 +1,24 @@
+{
+    "venvPath": "c:/Users/jasee/Downloads/petty-cash-management-system (1)",
+    "venv": ".venv",
+    "include": [
+        "backend"
+    ],
+    "exclude": [
+        "**/node_modules",
+        "**/__pycache__"
+    ],
+    "executionEnvironments": [
+        {
+            "root": "c:/Users/jasee/Downloads/petty-cash-management-system (1)",
+            "extraPaths": [
+                "."
+            ]
+        }
+    ],
+    "reportMissingImports": true,
+    "reportMissingTypeStubs": false,
+    "pythonVersion": "3.10",
+    "pythonPlatform": "Windows",
+    "typeCheckingMode": "basic"
+}
